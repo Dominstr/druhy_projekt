@@ -106,5 +106,3 @@ if __name__ == '__main__':
                 print("DRAW!")
             print(separator)
             break
-
-            print("ahoj")
